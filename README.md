@@ -24,7 +24,7 @@ This project takes a look at a couple of fabricated data sets that accurately re
 - Analyzed text and displayed information about it, including:
     - Data associated with those who responded 'Yes' and 'No' to a survey question (Line 15 - 27)
     - Frequency of qualitative data phrases from an open response survey question (Line 28 - 29)
-- Defined a function (table_converter) which creates x and y axis lists for Bokeh bar graphs, making it easier to reproduce for additional data (Line 41)
+- Defined the function `table_converter` which creates x and y axis lists for Bokeh bar graphs, making it easier to reproduce for additional data (Line 41)
 - Added in Bokeh data visualizations to make trends easier to see and understand
     - Scatter Plots (Line 37 - 39)
     - Bar Graph (Line 43)
@@ -32,4 +32,4 @@ This project takes a look at a couple of fabricated data sets that accurately re
 ### Additional Project Features
 - Used Jupyter Notebook
 - Used external libraries: Pandas, Bokeh, & SciPy
-- Ran in-depth statistical significance tests using scipy and displayed outputs that could be used for decision making (Line 30 - 36)
+- Ran in-depth statistical significance tests using SciPy and displayed outputs that could be used for decision making (Line 30 - 36)
