@@ -7,14 +7,15 @@ This project takes a look at a couple of fabricated data sets that accurately re
 - Jupyter Notebook
 
 ### Installation and Running
-1. 'git clone https://github.com/Cfoster01/pythonclassproject.git'
+1. Clone the repo: 
+    - git clone https://github.com/Cfoster01/pythonclassproject.git
 2. If not already installed, install pandas, bokeh, scipy, and Jupyter Notebook using pip with the following commands:
-    - `pip install pandas`
-    - `pip install bokeh`
-    - `pip install scipy`
-    - `pip install notebook`
+    - pip install pandas
+    - pip install bokeh
+    - pip install scipy
+    - pip install notebook
 3. Run Jupyter Notebooks from terminal with the command:
-    - `jupyter notebook`
+    - jupyter notebook
 4. Open the pythonclassproject-master/TrainingAnalysisProject.ipynb notebook
 5. Click **Cell** and **Run All** to run the entire notebook
 
